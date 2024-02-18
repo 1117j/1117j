@@ -1,8 +1,26 @@
-### Hi there 👋
+# Hyejin Lee  [![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white)](mailto:leehj6411@gmail.com)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lee-hyejin/)  [![Portfolio](https://img.shields.io/badge/Portfolio-green?logo=notion&logoColor=white)](https://clean-individual-ccc.notion.site/HYEJIN-LEE-dc1c081982f544179b70d10b3bf6956a)
+👋Hello there! I'm Hyejin Lee, a passionate Software Engineer with 4+ years of expertise. Crafting modular and scalable code for adaptable software solutions.
+I enjoy crafting modular and scalable code for adaptable software solutions.
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F1117j&count_bg=%23A6BDF4&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=1117j&show_icons=true&theme=buefy)
+#### 💼 Technical Skills
+[![Python](https://img.shields.io/badge/Python-blue?logo=python&logoColor=white)](https://www.python.org/)
+[![Java](https://img.shields.io/badge/Java-orange?logo=java&logoColor=white)](https://www.java.com/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Node.js](https://img.shields.io/badge/Node.js-brightgreen?logo=node.js&logoColor=white)](https://nodejs.org/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-green?logo=mongodb&logoColor=white)](https://www.mongodb.com/) <br>
+[![AWS](https://img.shields.io/badge/AWS-orange?logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
+[![MySQL](https://img.shields.io/badge/MySQL-blue?logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![PHP](https://img.shields.io/badge/PHP-purple?logo=php&logoColor=white)](https://www.php.net/)
+[![WordPress](https://img.shields.io/badge/WordPress-blue?logo=wordpress&logoColor=white)](https://wordpress.org/)
+[![Docker](https://img.shields.io/badge/Docker-blue?logo=docker&logoColor=white)](https://www.docker.com/) <br>
+[![Vue.js](https://img.shields.io/badge/Vue.js-brightgreen?logo=vue.js&logoColor=white)](https://vuejs.org/)
+[![React.js](https://img.shields.io/badge/React.js-blue?logo=react&logoColor=white)](https://reactjs.org/)
+[![Spring](https://img.shields.io/badge/Spring-green?logo=spring&logoColor=white)](https://spring.io/)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1117j&layout=compact&hide=html&theme=apprentice)](https://github.com/anuraghazra/github-readme-stats) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=1117j&show_icons=true&theme=apprentice)
+
 <!--
 **1117j/1117j** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
