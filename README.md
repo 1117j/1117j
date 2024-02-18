@@ -18,8 +18,10 @@ I enjoy crafting modular and scalable code for adaptable software solutions.
 [![React.js](https://img.shields.io/badge/React.js-blue?logo=react&logoColor=white)](https://reactjs.org/)
 [![Spring](https://img.shields.io/badge/Spring-green?logo=spring&logoColor=white)](https://spring.io/)
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1117j&layout=compact&hide=html&theme=apprentice)](https://github.com/anuraghazra/github-readme-stats) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=1117j&show_icons=true&theme=apprentice)
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1117j&layout=compact&hide=html&theme=apprentice" alt="Top Languages" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=1117j&show_icons=true&theme=apprentice" alt="GitHub Stats" height="150"/>
+</p>
 
 <!--
 **1117j/1117j** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
